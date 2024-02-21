@@ -1,0 +1,14 @@
+C:\Users\SylviaMullins\Documents\WGU\Software I – C# - C968\C968\C968\C968\bin\Debug\C968.exe.config
+C:\Users\SylviaMullins\Documents\WGU\Software I – C# - C968\C968\C968\C968\bin\Debug\C968.exe
+C:\Users\SylviaMullins\Documents\WGU\Software I – C# - C968\C968\C968\C968\bin\Debug\C968.pdb
+C:\Users\SylviaMullins\Documents\WGU\Software I – C# - C968\C968\C968\C968\obj\Debug\C968.csproj.AssemblyReference.cache
+C:\Users\SylviaMullins\Documents\WGU\Software I – C# - C968\C968\C968\C968\obj\Debug\C968.Form1.resources
+C:\Users\SylviaMullins\Documents\WGU\Software I – C# - C968\C968\C968\C968\obj\Debug\C968.Properties.Resources.resources
+C:\Users\SylviaMullins\Documents\WGU\Software I – C# - C968\C968\C968\C968\obj\Debug\C968.csproj.GenerateResource.cache
+C:\Users\SylviaMullins\Documents\WGU\Software I – C# - C968\C968\C968\C968\obj\Debug\C968.csproj.CoreCompileInputs.cache
+C:\Users\SylviaMullins\Documents\WGU\Software I – C# - C968\C968\C968\C968\obj\Debug\C968.exe
+C:\Users\SylviaMullins\Documents\WGU\Software I – C# - C968\C968\C968\C968\obj\Debug\C968.pdb
+C:\Users\SylviaMullins\Documents\WGU\Software I – C# - C968\C968\C968\C968\obj\Debug\C968.addParts.resources
+C:\Users\SylviaMullins\Documents\WGU\Software I – C# - C968\C968\C968\C968\obj\Debug\C968.addProduct.resources
+C:\Users\SylviaMullins\Documents\WGU\Software I – C# - C968\C968\C968\C968\obj\Debug\C968.modifyPart.resources
+C:\Users\SylviaMullins\Documents\WGU\Software I – C# - C968\C968\C968\C968\obj\Debug\C968.modifyProduct.resources
